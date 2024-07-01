@@ -1,0 +1,38 @@
+{
+  "name": "asad.txtviews.com",
+  "version": "0.0.2",
+  "description": "About Mohammad Asad",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "mohammad asad",
+    "finance",
+    "author",
+    "researcher",
+    "IIT Kanpur",
+    "Indian Institute Of Technology Kanpur",
+    "business",
+    "startups",
+    "blog",
+    "txtviews",
+    "motivation",
+    "mohammadasad",
+    "asad",
+    "blogs",
+    "machine learning",
+    "cv",
+    "resume",
+    "mohammad asad projects",
+    "AI ML",
+    "AI",
+    "ML",
+    "Artificial Intelligence",
+  ],
+  "author": "Mohammad ASAD",
+  "license": "ISC",
+  "dependencies": {
+    "firebase": "^9.19.1"
+  }
+}

@@ -201,18 +201,21 @@ html {
 }
 
 .page-content img {
-    border: 1px solid #2f2f2f;
+    border: 0px solid #2f2f2f;
     text-align: center;
     width:50%;
 }
 
-.page-content p,
+.page-content p {
+    text-align: left;
+}
+
 .page-content h6,
 .page-content h5,
 .page-content h4,
 .page-content h3,
 .page-content h2 {
-    text-align: left;
+    text-align: center;
 }
 
 #bottom-spacer {
@@ -245,7 +248,7 @@ ul {
 
 /* about.html */
 
-/* datasets.html */
+/* publications.html */
 
 .dataset-listings {
     width: 80%;
@@ -274,7 +277,7 @@ ul {
     object-fit: contain;
 }
 
-/* datasets.html */
+/* publications.html */
 
 /* experience.html */
 
